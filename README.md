@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/974928503.svg)](https://doi.org/10.5281/zenodo.15304321)
+
+
 ### Data, code, and material of the survey: Open research at the Biomedical Center of LMU Munich 
 
 **Material folder**:\
